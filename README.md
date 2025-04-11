@@ -42,21 +42,25 @@
 ```bash
 git clone https://github.com/techwithgbenga/proshowcase.git
 cd proshowcase
+```
 
 2. **Install Dependencies**
 
 ```bash
 npm install
+```
 
 3. **Run the App Locally**
 
 ```bash
 npm run dev
+```
 
 4. **Build for Production**
 
 ```bash
 npm run build
+```
 
 ## 🤝 Contributing
 We welcome contributions from developers, designers, and creatives of all levels! 🎉
