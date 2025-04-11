@@ -42,3 +42,44 @@
 ```bash
 git clone https://github.com/techwithgbenga/proshowcase.git
 cd proshowcase
+
+2. **Install Dependencies**
+
+```bash
+npm install
+
+3. **Run the App Locally**
+
+```bash
+npm run dev
+
+4. **Build for Production**
+
+```bash
+npm run build
+
+## 🤝 Contributing
+We welcome contributions from developers, designers, and creatives of all levels! 🎉
+
+How to Contribute:
+Fork the repo
+
+Create a new branch: git checkout -b feature/your-feature-name
+
+Make your changes
+
+Commit: git commit -m 'Added new feature'
+
+Push: git push origin feature/your-feature-name
+
+Open a Pull Request
+
+📌 Please read the CONTRIBUTING.md for guidelines.
+
+## 📄 License
+ProShowcase is open-sourced under the MIT License.
+
+##🧑‍💻 Creator
+Gbenga, Founder of Kariux
+💼 International Marketing Expert & Full Stack Developer
+📫 Follow: @techwithgbenga
