@@ -22,8 +22,6 @@
 
 ## 📸 Demo
 
-> 🔗 Live Preview: [https://yourusername.github.io/proshowcase](https://yourusername.github.io/proshowcase)  
-> *(Replace with actual link once deployed)*
 
 ---
 
@@ -42,5 +40,5 @@
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/proshowcase.git
+git clone https://github.com/techwithgbenga/proshowcase.git
 cd proshowcase
