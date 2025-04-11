@@ -22,7 +22,13 @@
 
 ## 📸 Demo
 
+Check out how **ProShowcase** looks in action:
 
+### 💻 Light Mode
+![Light Mode](public/screenshots/light-mode.png)
+
+### 🌙 Dark Mode
+![Dark Mode]([public/screenshots/dark-mode.png](https://media-hosting.imagekit.io/a46016750ae546a2/Screenshot 2025-04-12 000315.png?Expires=1839023685&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=3NQhBAL1bfHdw4ycSEIA91eleDXvNpXtkA3Nn2luH3ciQcQqM9bNTrC0zku27DbY463ZCkl1GoeRdFgQaff5ODtTHqrcp3aCLQjwpo2PCvx-IeX6NGxmYoQqyCPIlJHO2NDYZ2urMWakWGtVzDeH6nzdD3BA3PJ6BV8Tc~cA3zs3SRw17i3TR6Qm26PxHSszR1Vidr-yXaDRW2-ziwiXtNAKwPPUIlRwZrzPfhHwKs7SWP775c71I5pQUKSCIWLjfIg4nOg8FYzPaZCGl44cz4r-in-sn6f9bZQ9dy2m~e7pB~VuMIn6z4mOU1DMRg0L~4LCTv7IhePw74YaXRYTlQ__))
 ---
 
 ## 🧰 Tech Stack
