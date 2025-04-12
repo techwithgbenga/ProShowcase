@@ -25,10 +25,11 @@
 Check out how **ProShowcase** looks in action:
 
 ### 💻 Light Mode
-![Light Mode](screenshots/light.png)
+![Screenshot](./screenshots/light.png)
 
 ### 🌙 Dark Mode
-![Dark Mode](screenshots/dark.png)
+![Screenshot](./screenshots/dark.png)
+
 ---
 
 ## 🧰 Tech Stack
