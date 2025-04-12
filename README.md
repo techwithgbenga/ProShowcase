@@ -94,6 +94,15 @@ How to Contribute:
 ## 📄 License
 ProShowcase is open-sourced under the MIT License.
 
+
+---
+
+Let me know if you'd like:
+- A `CONTRIBUTING.md` template
+- A `LICENSE` file
+- GitHub Actions for automatic deployment
+- Or help writing a sample first issue to encourage new contributors!
+
 ---
 
 ##🧑‍💻 Creator
