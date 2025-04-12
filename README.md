@@ -28,7 +28,7 @@ Check out how **ProShowcase** looks in action:
 ![Light Mode](public/screenshots/light-mode.png)
 
 ### 🌙 Dark Mode
-![Dark Mode](https://media-hosting.imagekit.io/a46016750ae546a2/Screenshot 2025-04-12 000315.png)
+![Dark Mode]([https://imgur.com/a/qhGWrgj](https://i.imgur.com/2ghAi7A.png))
 ---
 
 ## 🧰 Tech Stack
