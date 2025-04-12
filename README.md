@@ -1,4 +1,4 @@
-# 🚀 ProShowcase — The Ultimate Portfolio/CV Web App
+# 🚀 ProShowcase — Portfolio/CV Web App
 
 **ProShowcase** is a professional, modern, and fully customizable open-source Portfolio and CV web application built with **React**, **Tailwind CSS**, and **Framer Motion**. It’s designed for developers, creatives, and professionals who want to showcase their skills and experience in a stylish, interactive, and accessible way.
 
@@ -24,8 +24,17 @@
 
 Check out how **ProShowcase** looks in action:
 
-![Light Mode](https://techwithgbenga.com/wp-content/uploads/2025/04/light.png)
-![Dark Mode](https://techwithgbenga.com/wp-content/uploads/2025/04/dark.png)
+## 📸 Screenshots
+
+<p align="center">
+  <img src="https://techwithgbenga.com/wp-content/uploads/2025/04/light.png" alt="Light Mode" width="80%" />
+</p>
+
+<p align="center">
+  <img src="https://techwithgbenga.com/wp-content/uploads/2025/04/dark.png" alt="Dark Mode" width="80%" />
+</p>
+
+
 ---
 ## 🧰 Tech Stack
 
