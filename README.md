@@ -24,12 +24,11 @@
 
 Check out how **ProShowcase** looks in action:
 
-### 💻 Light Mode
-![Screenshot](./screenshots/light.png)
+### 💡 Light Mode
+![Light Mode](https://techwithgbenga.com/wp-content/uploads/2025/04/light.png)
 
 ### 🌙 Dark Mode
-![Screenshot](./screenshots/dark.png)
-
+![Dark Mode](https://techwithgbenga.com/wp-content/uploads/2025/04/dark.png)
 ---
 
 ## 🧰 Tech Stack
