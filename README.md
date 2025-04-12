@@ -28,7 +28,7 @@ Check out how **ProShowcase** looks in action:
 ![Light Mode](https://techwithgbenga.com/wp-content/uploads/2025/04/light.png)
 
 ### 🌙 Dark Mode
-![Light Mode](https://techwithgbenga.com/wp-content/uploads/2025/04/dark.png)
+![Light Mode](https://i.postimg.cc/Jn7P4MfZ/dark.png)
 
 
 ---
