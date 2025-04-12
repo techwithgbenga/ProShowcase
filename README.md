@@ -24,13 +24,9 @@
 
 Check out how **ProShowcase** looks in action:
 
-### 💡 Light Mode
 ![Light Mode](https://techwithgbenga.com/wp-content/uploads/2025/04/light.png)
-
-### 🌙 Dark Mode
 ![Dark Mode](https://techwithgbenga.com/wp-content/uploads/2025/04/dark.png)
 ---
-
 ## 🧰 Tech Stack
 
 - **React** + **React Router DOM**
@@ -68,6 +64,8 @@ npm run dev
 npm run build
 ```
 
+---
+
 ## 🤝 Contributing
 We welcome contributions from developers, designers, and creatives of all levels! 🎉
 
@@ -86,8 +84,12 @@ Open a Pull Request
 
 📌 Please read the CONTRIBUTING.md for guidelines.
 
+---
+
 ## 📄 License
 ProShowcase is open-sourced under the MIT License.
+
+---
 
 ##🧑‍💻 Creator
 Gbenga, Founder of Kariux
