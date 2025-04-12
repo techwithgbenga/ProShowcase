@@ -25,10 +25,10 @@
 Check out how **ProShowcase** looks in action:
 
 ### 💡 Light Mode
-![Light Mode](https://techwithgbenga.com/wp-content/uploads/2025/04/light.png)
+![Light Theme](https://github.com/user-attachments/assets/49790efe-a00c-49e8-a0e6-19b9a6247f56)
 
 ### 🌙 Dark Mode
-![Image](https://github.com/user-attachments/assets/71d56917-8f14-4860-998a-ee0cd0230fbe)
+![Dark Theme](https://github.com/user-attachments/assets/71d56917-8f14-4860-998a-ee0cd0230fbe)
 
 
 ---
