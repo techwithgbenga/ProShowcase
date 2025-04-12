@@ -75,17 +75,17 @@ npm run build
 We welcome contributions from developers, designers, and creatives of all levels! 🎉
 
 How to Contribute:
-Fork the repo
+- Fork the repo
 
-Create a new branch: git checkout -b feature/your-feature-name
+- Create a new branch: git checkout -b feature/your-feature-name
 
-Make your changes
+- Make your changes
 
-Commit: git commit -m 'Added new feature'
+- Commit: git commit -m 'Added new feature'
 
-Push: git push origin feature/your-feature-name
+- Push: git push origin feature/your-feature-name
 
-Open a Pull Request
+- Open a Pull Request
 
 📌 Please read the CONTRIBUTING.md for guidelines.
 
@@ -98,5 +98,5 @@ ProShowcase is open-sourced under the MIT License.
 
 ##🧑‍💻 Creator
 Gbenga, Founder of Kariux
-💼 International Marketing Expert & Full Stack Developer
-📫 Follow: @techwithgbenga
+- 💼 International Marketing Expert & Full Stack Developer
+- 📫 Follow: @techwithgbenga
